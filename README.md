@@ -6,6 +6,7 @@ Hello, my name is Allison!
 My current primary project involves training and fine-tuning forced alignment models for work with kids' speech. Other interests include language acquisition, sociolinguistics, and multilingualism. I have a soft spot for optimality theory in phonological analysis.
 
 **Natural languages:** English, heritage Korean, Japanese, basic French & Latin.
+
 **Programming languages:** Java, Python, R, Javascript.
 
 <!--
