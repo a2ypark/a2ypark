@@ -1,4 +1,12 @@
-## please don't peer review this yet i'm out sick and turned the link in before midnight in a panic i'm workign on it i promise
+
+## Allison Park | Linguistics & Computational Social Science
+
+Hello, my name is Allison!
+
+My current primary project involves training and fine-tuning forced alignment models for work with kids' speech. Other interests include language acquisition, sociolinguistics, and multilingualism. I have a soft spot for optimality theory in phonological analysis.
+
+**Natural languages:** English, heritage Korean, Japanese, basic French & Latin.
+**Programming languages:** Java, Python, R, Javascript.
 
 <!--
 **a2ypark/a2ypark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
